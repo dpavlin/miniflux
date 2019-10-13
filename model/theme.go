@@ -24,7 +24,7 @@ func Themes() map[string]string {
 func ThemeColor(theme string) string {
 	switch theme {
 	case "dark_serif", "dark_sans_serif":
-		return "#222"
+		return "#000"
 	default:
 		return "#fff"
 	}

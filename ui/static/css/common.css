@@ -706,7 +706,7 @@ article.feed-parsing-error {
 
 .entry header h1 a:hover,
 .entry header h1 a:focus {
-    color: #666;
+    color: #fff;
 }
 
 .entry-actions {
@@ -728,7 +728,7 @@ article.feed-parsing-error {
 .entry-meta {
     font-size: 0.95em;
     margin: 0 0 20px;
-    color: #666;
+    color: #fff;
     overflow-wrap: break-word;
 }
 
@@ -737,7 +737,7 @@ article.feed-parsing-error {
 }
 
 .entry-website a {
-    color: #666;
+    color: #fff;
     vertical-align: top;
     text-decoration: none;
 }

@@ -108,7 +108,7 @@
     :root {
         --font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
         --body-color: #efefef;
-        --body-background: #222;
+        --body-background: #000;
         --hr-border-color: #555;
         --title-color: #aaa;
         --link-color: #aaa;
